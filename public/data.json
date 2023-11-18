@@ -1,0 +1,86 @@
+[
+    {
+        "_id": "653d62d4499eb715adef95ff",
+        "id": 1,
+        "Name": "Diwali",
+        "Country": "India",
+        "Date": "5th Nov 2023",
+        "Description": "Festival of Lights celebrated by Hindus.",
+        "Associated_Food": [
+            "Samosa",
+            "Jalebi"
+        ],
+        "Traditions": "Lighting lamps, fireworks, and family gatherings.",
+        "Tourist_Attraction": true
+    },
+    {
+        "_id": "653d62d4499eb715adef9600",
+        "id": 2,
+        "Name": "Carnival",
+        "Country": "Brazil",
+        "Date": "18th Feb 2023",
+        "Description": "A big traditional festival with parades, dancing, and music.",
+        "Associated_Food": [
+            "Feijoada",
+            "Brigadeiro"
+        ],
+        "Traditions": "Samba parades, street parties, and masquerade balls.",
+        "Tourist_Attraction": true
+    },
+    {
+        "_id": "653d62d4499eb715adef9601",
+        "id": 3,
+        "Name": "Thanksgiving",
+        "Country": "USA",
+        "Date": "23rd Nov 2023",
+        "Description": "A day to express gratitude, particularly for the harvest.",
+        "Associated_Food": [
+            "Turkey",
+            "Pumpkin pie"
+        ],
+        "Traditions": "Feasting with family, watching football, and parades.",
+        "Tourist_Attraction": false
+    },
+    {
+        "_id": "653d62d4499eb715adef9602",
+        "id": 4,
+        "Name": "Songkran",
+        "Country": "Thailand",
+        "Date": "13th-15th April 2023",
+        "Description": "Thai New Year water festival.",
+        "Associated_Food": [
+            "Pad Thai",
+            "Green Curry"
+        ],
+        "Traditions": "Water fights, visiting temples, and paying respect to elders.",
+        "Tourist_Attraction": true
+    },
+    {
+        "_id": "653d62d4499eb715adef9603",
+        "id": 5,
+        "Name": "Oktoberfest",
+        "Country": "Germany",
+        "Date": "16th Sep - 3rd Oct 2023",
+        "Description": "World's largest Volksfest (beer festival and travelling funfair).",
+        "Associated_Food": [
+            "Bratwurst",
+            "Pretzel"
+        ],
+        "Traditions": "Drinking beer, wearing lederhosen & dirndls, and enjoying rides.",
+        "Tourist_Attraction": true
+    },
+    {
+        "_id": "653d62d4499eb715adef9604",
+        "id": 6,
+        "Name": "Hanami",
+        "Country": "Japan",
+        "Date": "April 2023",
+        "Description": "Cherry blossom viewing festival.",
+        "Associated_Food": [
+            "Sakura Mochi",
+            "Hanami Dango"
+        ],
+        "Traditions": "Picnicking under cherry blossom trees, singing, and celebrating.",
+        "Tourist_Attraction": true
+    }
+]

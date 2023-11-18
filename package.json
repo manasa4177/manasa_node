@@ -1,0 +1,17 @@
+{
+  "name": "manasa-node-app",
+  "version": "1.0.0",
+  "description": "Manasa's Node App",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "author": "Manasa Sukavasi",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.2.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^16.9.3"
+  }
+}
