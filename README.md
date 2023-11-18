@@ -3,4 +3,4 @@
 > Run command 'npm run dev'
 
 # Prod url
-> https://manasa-app.netlify.app/api
+> https://manasa-node.netlify.app/api
